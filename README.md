@@ -66,5 +66,6 @@ Here are some ideas to get you started:
 <p align="left">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=shruti682&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=shruti682&theme=tokyonight" />
+<a href="https://github.com/shruti682/github-readme-stats"><img width="48%" height ="35%" alt="Shruti's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shruti682&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 </p>
-<a href="https://github.com/shruti682/dipti821"><img alt=" Shruti's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=shruti682&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/shruti682/shruti682"><img alt="Shruti's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=shruti682&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
