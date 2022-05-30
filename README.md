@@ -1,7 +1,7 @@
 <!-- ### Hi there 👋
  -->
-<!--
-**shruti682/shruti682** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<!-- **shruti682/shruti682** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -13,22 +13,20 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+- 🥅 2022 Goals
 
+ -->
 # Hi there, I'm Shruti! 👋 
 <h3 >Welcome to my GitHub Profile</h3>
 
 ## I'm a Pre-final year student at NIT Jamshedpur!
 
 <!-- - 🔭 Check out my VS Code course: [Become A VS Code SuperHero!][course]! -->
-- 🌱 I’m currently learning **Data Structures , Web Development , ML**.
-<!-- - 👯 I’m looking to collaborate with other content creators -->
-- 💬 Ask me about **Coding || Open Source || Development**
+- 🌱 I’m currently learning **Data Structures , Web Development , ML**
+- 💬 Ask me about **Coding || Web Development**
 - 🤝 I'm eager to know about **opportunities which will encourage me in expanding my prospective.**
 - 📫 How to reach me: shrutikumari0606@gmail.com
-<!-- - 🥅 2022 Goals: Learn more about web3 -->
-- ⚡ Fun fact: I love to draw and play guitar / drums
-<!-- - 😻 Check out the NFT collection I created: [CodeCats](https://opensea.io/collection/codecats?search[sortAscending]=true&search[sortBy]=PRICE&search[toggles][0]=BUY_NOW) -->
+<!-- - ⚡ Fun fact: I love to draw and play guitar / drums -->
 
 ### Connect with me 🤝:
 
