@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 # Hi there, I'm Shruti! 👋 
 <h3 >Welcome to my GitHub Profile!</h3>
 
+<img width="100%" height = "250px" src="https://media.giphy.com/media/k0ijJhqrUP4T2EvmJ1/giphy.gif" alt="cover" />
+
 ## I'm a Pre-final year student at NIT Jamshedpur!
 
 - 🌱 I’m currently learning **Data Structures , Web Development , ML.**
