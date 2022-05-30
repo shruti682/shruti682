@@ -21,7 +21,6 @@ Here are some ideas to get you started:
 
 ## I'm a Pre-final year student at NIT Jamshedpur!
 
-<!-- - 🔭 Check out my VS Code course: [Become A VS Code SuperHero!][course]! -->
 - 🌱 I’m currently learning **Data Structures , Web Development , ML.**
 
 - 💬 Ask me about **Coding || Web Development.**
@@ -30,7 +29,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me: shrutikumari0606@gmail.com
 
-<!-- - ⚡ Fun fact: I love to draw and play guitar / drums -->
+- ⚡ Fun fact: I love to code but not to debug.
 
 ### Connect with me 🤝:
 
