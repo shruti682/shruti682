@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me: shrutikumari0606@gmail.com
 
-- ⚡ Fun fact: I love to code but not to debug.
+<!-- - ⚡ Fun fact: I love to code but not to debug. -->
 
 ### Connect with me 🤝:
 
