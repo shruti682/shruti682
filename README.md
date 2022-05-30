@@ -17,15 +17,19 @@ Here are some ideas to get you started:
 
  -->
 # Hi there, I'm Shruti! 👋 
-<h3 >Welcome to my GitHub Profile</h3>
+<h3 >Welcome to my GitHub Profile!</h3>
 
 ## I'm a Pre-final year student at NIT Jamshedpur!
 
 <!-- - 🔭 Check out my VS Code course: [Become A VS Code SuperHero!][course]! -->
 - 🌱 I’m currently learning **Data Structures , Web Development , ML.**
+
 - 💬 Ask me about **Coding || Web Development.**
+
 - 🤝 I'm eager to know about **opportunities which will encourage me in expanding my prospective.**
+
 - 📫 How to reach me: shrutikumari0606@gmail.com
+
 <!-- - ⚡ Fun fact: I love to draw and play guitar / drums -->
 
 ### Connect with me 🤝:
