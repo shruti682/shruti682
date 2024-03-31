@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 # Hi there, I'm Shruti! 👋 
 <h3 >Welcome to my GitHub Profile!</h3>
 
-<img width="32%" height = "300px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExemUzNTdod2N6MnllOHU4dDluaXlkcTE1MWhrMnpjank5N3AzMWFvdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BmTjHqLbyZyVUJPAfb/giphy.gif" alt="cover" />
+<img width="15%" height = "150px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExemUzNTdod2N6MnllOHU4dDluaXlkcTE1MWhrMnpjank5N3AzMWFvdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BmTjHqLbyZyVUJPAfb/giphy.gif" alt="cover" />
 
 <!-- ## I'm a final year student at NIT Jamshedpur!
 
