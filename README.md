@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 # Hi there, I'm Shruti! 👋 
 <h3 >Welcome to my GitHub Profile!</h3>
 
-<!-- <img width="100%" height = "250px" src="https://media.giphy.com/media/k0ijJhqrUP4T2EvmJ1/giphy.gif" alt="cover" /> -->
+<img width="32%" height = "300px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExemUzNTdod2N6MnllOHU4dDluaXlkcTE1MWhrMnpjank5N3AzMWFvdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BmTjHqLbyZyVUJPAfb/giphy.gif" alt="cover" />
 
-## I'm a final year student at NIT Jamshedpur!
+<!-- ## I'm a final year student at NIT Jamshedpur!
 
 - 🌱 I’m currently learning **Data Structures , Web Development , Machine learning.**
 
@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me: shrutikumari0606@gmail.com
 
-<!-- - ⚡ Fun fact: I love to code but not to debug. -->
+ - ⚡ Fun fact: I love to code but not to debug. 
 
 ### Connect with me 🤝:
 
@@ -61,9 +61,9 @@ Here are some ideas to get you started:
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
-<!-- --- -->
+--- 
 
-<!-- <p align="left">
+<p align="left">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=shruti682&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=shruti682&theme=tokyonight" />
 <a href="https://github.com/shruti682/github-readme-stats"><img width="48%" height ="35%" alt="Shruti's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shruti682&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
