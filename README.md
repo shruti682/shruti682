@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 
 <!-- <img width="100%" height = "250px" src="https://media.giphy.com/media/k0ijJhqrUP4T2EvmJ1/giphy.gif" alt="cover" /> -->
 
-## I'm a Pre-final year student at NIT Jamshedpur!
+## I'm a final year student at NIT Jamshedpur!
 
-- 🌱 I’m currently learning **Data Structures , Web Development , ML.**
+- 🌱 I’m currently learning **Data Structures , Web Development , Machine learning.**
 
 - 💬 Ask me about **Coding || Web Development.**
 
