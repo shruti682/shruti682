@@ -105,7 +105,7 @@ public:
   int AboutMe()
   {
 	  string name,institute;
-	  string hobbies[3],skills[7];
+	  string hobbies[3],skills[11];
 	  name="Shruti Kumari";
 	  institute="NIT Jamshedpur";
 	  hobbies={"Coding","Travelling", "Chess"};
