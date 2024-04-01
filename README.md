@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 - 🥅 2022 Goals
 
  -->
-# Hi there, I'm Shruti! 👋 
-<h3 >Welcome to my GitHub Profile!</h3>
+<!--# Hi there, I'm Shruti! 👋 
+<h3 >Welcome to my GitHub Profile!</h3>-->
 
 <!--<img width="15%" height = "150px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExemUzNTdod2N6MnllOHU4dDluaXlkcTE1MWhrMnpjank5N3AzMWFvdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BmTjHqLbyZyVUJPAfb/giphy.gif" alt="cover" />
 
@@ -70,3 +70,87 @@ Here are some ideas to get you started:
 </p>
 <a href="https://github.com/shruti682/shruti682"><img alt="Shruti's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=shruti682&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
  -->
+
+
+
+
+
+ <h1 align="center">Hi 👋, I'm Shruti Kumari</h1>
+<h3 align="center">Welcome to my GitHub Profile!</h3>
+
+<br/>
+
+<h3 align="left">Connect with me:</h3>
+<br/>
+
+<!-- - 🎯 Portfolio website: [Portfolio](https://stellular-lily-04cbcc.netlify.app/)-->
+
+<br/>
+<p align="left">
+<a href="https://www.linkedin.com/in/shruti-kumari-37357b207/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="=shruti-kumari-7a4660200" height="30" /></a>
+<a href="https://codeforces.com/profile/shruti006" target="blank"><img align="center" src="https://codeforces.org/s/45640/images/codeforces-sponsored-by-ton.png" alt="shruti006" height="30" /></a>
+ <a href="https://www.codechef.com/users/lily06" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="" height="30" width="40" /></a>
+<a href="https://leetcode.com/shruti066/" target="blank"><img align="center" src="https://leetcode.com/_next/static/images/logo-ff2b712834cf26bf50a5de58ee27bcef.png" alt="shruti066" height="30" /></a>
+<a href="https://auth.geeksforgeeks.org/user/shrutikumari0606" target="blank"><img align="center" src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210420155809/gfg-new-logo.png" alt="shrutikumari0606" height="30" /></a>
+ <a href="https://www.hackerrank.com/shrutikumari0606?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="" height="30" width="40" /></a>
+</p>
+
+<br/>
+<br/>
+
+
+```cpp
+class Shruti{
+public:
+  int AboutMe()
+  {
+	  string name,institute;
+	  string hobbies[3],skills[7];
+	  name="Shruti Kumari";
+	  institute="NIT Jamshedpur";
+	  hobbies={"Coding","Travelling", "Chess"};
+	  skills={"Data Stuctures and Algorithms","C++", "JavaScript", "ReactJs", "NodeJs","MongoDB","Websockets",
+    "Python","Object Oriented Programming","Database Management System","Operating System"};
+  }
+}
+```
+<br/>
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shruti682&show_icons=true&locale=en&layout=compact" alt="shruti682" /></p>
+<a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+      <img align="center" width=420 height="auto" src="https://github-readme-stats.vercel.app/api?username=shruti682&show_icons=true&theme=dark&border_color=61dafb&hide_border=true&include_all_commits=true" />
+</a>
+
+<br/>
+
+
+🛠**Tech Stack**
+
+
+![C++](https://img.shields.io/badge/C%2B%2B-000000?style=flat&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-000000?style=flat&logo=python&logoColor=white)
+![JAVA](https://img.shields.io/badge/Java-000000?style=flat&logo=openjdk&logoColor=white)
+![JAVASCRIPT](https://img.shields.io/badge/-javascript-000000?style=flat&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
+![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=CSS3)
+
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap)
+![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=MySQL)
+![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
+![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
+![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React)
+![Node](https://img.shields.io/badge/Node.js-000000?style=flat&logo=node.js&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
+
+<!--![SASS](https://img.shields.io/badge/-SASS-000000?style=flat&logo=SASS)
+![Heroku](https://img.shields.io/badge/-Heroku-000000?style=flat&logo=heroku)
+![Docker](https://img.shields.io/badge/-docker-000000?style=flat&logo=docker)
+![AWS](https://img.shields.io/badge/AWS-000000?style=flat-square&logo=amazon-aws)
+![AWS](https://img.shields.io/badge/Microsoft_Azure-000000?style=flat&logo=microsoft-azure&logoColor=white)-->
+
+
+<br/>
+<div align="center">
+    <h3 align="center">Show some &nbsp;❤️&nbsp; by following me!</h3>
+</div>
