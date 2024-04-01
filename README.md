@@ -151,6 +151,6 @@ public:
 
 
 <br/>
-<div align="center">
-    <h3 align="center">Show some &nbsp;❤️&nbsp; by following me!</h3>
-</div>
+<!--<div align="center">
+    <h3 align="center">&nbsp;❤️&nbsp;</h3>
+</div>-->
