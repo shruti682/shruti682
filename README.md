@@ -117,12 +117,12 @@ public:
 <br/>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shruti682&show_icons=true&locale=en&layout=compact" alt="shruti682" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shruti682&show_icons=true&locale=en&layout=compact" alt="shruti682" /></p>
 <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
       <img align="center" width=420 height="auto" src="https://github-readme-stats.vercel.app/api?username=shruti682&show_icons=true&theme=dark&border_color=61dafb&hide_border=true&include_all_commits=true" />
 </a>
 
-<br/>
+<br/> -->
 
 
 🛠**Tech Stack**
